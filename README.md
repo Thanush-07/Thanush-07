@@ -1,18 +1,16 @@
-<h1 align="center">
-  <span style="font-size:38px; background: linear-gradient(90deg,#00DBDE,#FC00FF); -webkit-background-clip: text; color: transparent;">
-    💫 Hi 👋, I'm Thanush Kumar
-  </span>
-</h1>
+<h1 align="center">💫 Hi, I'm <span style="color:#6C63FF;">Thanush Kumar</span></h1>
 
 <h3 align="center">
-  <strong>⚡ Full-Stack Developer</strong> •  
-  <strong>🛡 Cybersecurity Aspirant</strong> •  
-  <strong>🤖 AI & Automation Learner</strong>
+A Passionate Full-Stack Developer  
+🛡 Cybersecurity Enthusiast  
+🤖 AI & Automation Explorer
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+Ethical+Hacking+%26+Pentesting;Exploring+AI+and+Automation+Everyday">
-</p>
+---
+
+### ✍️ Random Dev Quote
+> **“All dreams become achievable when we have the courage and discipline to pursue them.”**
+
 
 
 ## Welcome to my GitHub !
