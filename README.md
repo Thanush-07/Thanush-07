@@ -61,7 +61,6 @@ Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+All Dreams Can Come True if we have courage to purse them ✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
