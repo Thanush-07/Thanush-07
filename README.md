@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+<!-- - 🔭 **I’m currently working on:** Enter your project info here -->
 - 🌱 **I’m currently learning:** Ai Automation and Cyber Security Tools
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** thanushkumar722@gmail.com
