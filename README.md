@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align="center">
-  <strong>⚡ Full-Stack Developer</strong> •  
-  <strong>Cybersecurity Aspirant 🛡 </strong> •  
+  <strong>⚡ Full-Stack Developer</strong> || 
+  <strong>Cybersecurity Aspirant 🛡 </strong>||  
   <strong>🤖 AI & Automation Learner</strong>
 </h3>
 
