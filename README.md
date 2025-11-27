@@ -1,5 +1,19 @@
-# 💫 Hi 👋, I'm Thanush Kumar
-**A Passionate Full-Stack Developer  || Cybersecurity Aspirant 🛡 || AI & Automation Learner**
+<h1 align="center">
+  <span style="font-size:38px; background: linear-gradient(90deg,#00DBDE,#FC00FF); -webkit-background-clip: text; color: transparent;">
+    💫 Hi 👋, I'm Thanush Kumar
+  </span>
+</h1>
+
+<h3 align="center">
+  <strong>⚡ Full-Stack Developer</strong> •  
+  <strong>🛡 Cybersecurity Aspirant</strong> •  
+  <strong>🤖 AI & Automation Learner</strong>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+Ethical+Hacking+%26+Pentesting;Exploring+AI+and+Automation+Everyday">
+</p>
+
 
 ## Welcome to my GitHub !
 I love building secure, scalable full-stack applications and exploring the world of cybersecurity, penetration testing, and AI-driven security automation. My projects reflect modern development practices with a strong focus on security, performance, and real-world problem solving.
