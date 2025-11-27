@@ -1,5 +1,5 @@
-                                          # 💫 Hi 👋, I'm Thanush Kumar
-                **A Passionate Full-Stack Developer  || Cybersecurity Aspirant 🛡 || AI & Automation Learner**
+# 💫 Hi 👋, I'm Thanush Kumar
+**A Passionate Full-Stack Developer  || Cybersecurity Aspirant 🛡 || AI & Automation Learner**
 
 ## Welcome to my GitHub !
 I love building secure, scalable full-stack applications and exploring the world of cybersecurity, penetration testing, and AI-driven security automation. My projects reflect modern development practices with a strong focus on security, performance, and real-world problem solving.
@@ -71,23 +71,16 @@ Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or 
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ---
-
 ### 🎬 Editing & Content Creation Tools
 ![Filmora](https://img.shields.io/badge/Filmora-15AABF?style=for-the-badge&logo=filmora&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
 ---
-
 ### 🧰 Other Tools
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushkumar-pandi/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
