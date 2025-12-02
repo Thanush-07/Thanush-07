@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+AI+and+Automation+Everyday+Ethical+Hacking+%26+Pentesting;Exploring">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+AI+and+Automation+Everyday;Exploring+Ethical+Hacking+%26+Pentesting">
 </p>
 
 
