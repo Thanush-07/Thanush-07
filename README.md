@@ -21,7 +21,7 @@ I love building secure, scalable full-stack applications and exploring the world
 Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <!-- - 🔭 **I’m currently working on:** Enter your project info here -->
-- 🌱 **I’m currently learning:**   Ai Automation 
+<!-- 🌱 **I’m currently learning:**   Ai Automation --> 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** thanushkumar722@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
