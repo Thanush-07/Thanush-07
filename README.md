@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+AI+and+Automation+Everyday;Exploring+Ethical+Hacking+%26+Pentesting">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=550&lines=Building+Secure+%26+Scalable+Applications;Learning+and+Exploring+Computer+Vision+%26+AI">
 </p>
 
 
@@ -54,17 +54,6 @@ Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
-<!---
-### 🔐 Cyber Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00AEEF?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/metasploit-0057D1?style=for-the-badge&logo=metasploit&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
---->
 ### 🧰 Other Tools
 ![Filmora](https://img.shields.io/badge/Filmora-15AABF?style=for-the-badge&logo=filmora&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
