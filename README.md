@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <strong>⚡ Full-Stack Developer</strong>
-<!--  <strong>🤖 AI & Automation Learner</strong> -->
+ <strong>🤖 Computer Vision Enthusiast</strong> 
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 
 ## Welcome to my GitHub !
-I love building secure, scalable full-stack applications and exploring the world of cybersecurity, penetration testing, and AI-driven security automation. My projects reflect modern development practices with a strong focus on security, performance, and real-world problem solving.
+I am a Full Stack Developer with experience in the MERN stack and a growing passion for Computer Vision and Artificial Intelligence. I enjoy designing secure, scalable, and efficient applications while exploring image processing and visual intelligence technologies. My work combines modern software development practices with a strong focus on performance, security, and solving real-world challenges.
 
 Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
