@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **thanushkumar722@gmail.com** For Collaboration/Project or 
 <!-- 🌱 **I’m currently learning:**   Ai Automation --> 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** thanushkumar722@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me.
+<!-- ⚡ **Fun fact:** I Love Tech and Tech Love Me. -->
 
 # 💻 Tech Stack:
 
